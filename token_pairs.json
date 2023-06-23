@@ -1,0 +1,23 @@
+[
+    {
+        "token_in": "ETH",
+        "token_in_addr": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+        "token_out": "USDC",
+        "token_out_addr": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "pool_addr": "0x80115c708E12eDd42E504c1cD52Aea96C547c05c"
+    },
+    {
+        "token_in": "ETH",
+        "token_in_addr": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+        "token_out": "USDT",
+        "token_out_addr": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+        "pool_addr": "0xd3D91634Cf4C04aD1B76cE2c06F7385A897F54D3"
+    },
+    {
+        "token_in": "ETH",
+        "token_in_addr": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+        "token_out": "WBTC",
+        "token_out_addr": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+        "pool_addr": "0xb3479139e07568BA954C8a14D5a8B3466e35533d"
+    }
+]
