@@ -60,7 +60,7 @@ def perform_swap(private_key, token_pair):
 
     withdraw_mode = 1  # 1 - возвращает ETH, 2 - возвращает wETH
 
-    swapData = encode(['address', 'address', 'uint8'], [token_in_addr, token_out_addr, withdraw_mode])
+    swapData = encode(['address', 'address', 'uint8'], [token_in_addr, caller, withdraw_mode])
 
     # Построение шагов
     steps = [
